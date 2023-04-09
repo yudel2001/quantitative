@@ -11,7 +11,7 @@ from time import sleep
 from PIL import Image
 from selenium import webdriver
 
-# 账号
+# 账号 test
 USERNAME = '***'
 # 密码
 PASSWORD = '***'
